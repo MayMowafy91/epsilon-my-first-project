@@ -1,1 +1,1 @@
-# epsilon-my-first-project
+# Epsilon-my-first-project
